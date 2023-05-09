@@ -1,0 +1,173 @@
+#logo{
+    width: 310px;
+    height: 300px;
+    top: 250px;
+    float: left;
+    position: absolute;
+    margin-left: 230px;
+    border-radius: 3%;
+    cursor: pointer;
+    z-index: 1;
+}
+#logo:hover{
+  filter: opacity(.5);
+}
+#lema{
+      width: 600px;
+      height: 50px;
+      text-align: center;
+      margin-left: 580px; 
+      margin-top: -410px;
+      position: relative;
+      color: white;
+      cursor: pointer;
+      border: 3px solid black;
+  
+}
+#lema2{
+    width: 600px;
+    height: 50px;
+    text-align: center;
+    margin-left: 580px; 
+    margin-top:10px;
+    position: relative;
+    color: black;
+    cursor: pointer;
+    border: 3px solid black;
+    background-color: #FFD371;
+
+}
+
+.nav{
+   background-color: #9DDAC6;
+}
+#texto1{
+  text-align: center; 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+
+#texto2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 26px; 
+    margin-left: 0px;
+}
+.carousel-inner img {
+  width: 100%;
+  max-height: 760px;
+}
+
+.carousel-inner{
+height: 700px;
+}
+#imagen1:hover{
+  filter: saturate(180%);
+}
+#imagen2:hover{
+  filter: saturate(180%);
+}
+.pie-pagina{
+  width: 2000px;
+  background-color: #c8c8c8;
+  margin-left: 300px;
+  float: left;
+  margin-left: -550px;
+}
+#logoo{
+  width: 40%;
+  margin-left: 250px;
+}
+.pie-pagina .grupo-1{
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap:50px;
+  padding: 45px 0px;
+  
+}
+.pie-pagina .grupo-1 .box figure{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pie-pagina .grupo-1 .box figure img{
+  width: 250px;
+}
+.pie-pagina .grupo-1 .box h2{
+  color: black;
+  margin-bottom: 25px;
+  font-size: 20px;
+  margin-left: 120px;
+}
+.pie-pagina .grupo-1 .box p{
+  color: black;
+  margin-bottom: 10px;
+  margin-left: 120px;
+}
+.pie-pagina .grupo-2{
+  background-color: #FFD371;
+  padding: 15px 10px;
+  text-align: center;
+  color: black;
+  margin-left: 220px;
+}
+.pie-pagina .grupo-2 small{
+  font-size: 15px;
+}
+
+#ocoti{
+  width: 26%;
+  height: 300px;
+  border-radius: 50%;
+  margin-right: 75px;
+  
+}
+#ocoti:hover{
+  opacity:0.9;
+  filter: alpha(opacity=60);
+}
+
+#cinquera{
+    width: 28%;
+    height: 300px;
+    border-radius: 50%;
+    margin-right: 75px;
+    
+  }
+  #cinquera:hover{
+    opacity:0.9;
+    filter: alpha(opacity=60);
+  }
+
+  #bruja{
+    width: 28%;
+    height: 300px;
+    border-radius: 50%;
+    margin-right: 15px;
+    
+  }
+  #bruja:hover{
+    opacity:0.9;
+    filter: alpha(opacity=60);
+  }
+
+#tucan{
+    width: 45%;
+  height: 150px; 
+}
+#alfombra{
+    width: 45%;
+  height: 150px; 
+}
+#iglesia{
+    width: 45%;
+  height: 150px; 
+}
+#balneario{
+    width: 45%;
+  height: 150px; 
+}

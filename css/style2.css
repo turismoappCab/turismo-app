@@ -1,0 +1,149 @@
+#principal{
+    background:#1C82AD;
+    width: 100%;
+    height: 50px;
+
+    
+}
+h1{
+    color: white;
+    
+   
+}
+
+#texto{
+    margin-left: 500px;
+}
+#haciendas{
+    background: #03C988;
+    
+    margin-right: 210px;
+}
+#portada{
+    width: 1100px;
+    margin-left: 190px;
+    height: 450px;
+
+}
+h2{
+    text-align: center;
+    margin-top: -50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#cuadro{
+   
+    width: 25%;
+    height: 1300px;
+    
+    
+}
+
+#uno{
+    background: #03C988;
+    width:70%;
+    height: 250px;
+    margin-left: 220px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #030303
+}
+#igor{
+    width: 240px;
+    height: 225px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#nombre1{
+    background:#1C82AD;
+    width: 50%;
+    color: black;
+    margin-top: -250px;
+    margin-left: 350px;
+}
+#texto1{
+    width: 100px;
+    height: 0px;
+    background: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    margin-top: -200px;
+    margin-left: 640px;
+}
+
+
+#dos{
+    background: #03C988;
+    width:70%;
+    height: 250px;
+    margin-left: 220px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #0d0d0d;
+}
+#canela{
+    width: 240px;
+    height: 225px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#texto1{
+    width: 50%;
+    background: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    margin-top: -200px;
+    margin-left: 640px;
+}
+#reservado{
+    background: #5FD068;
+    text-align: center;
+}
+#tres{
+    background: #03C988;
+    width:70%;
+    height: 250px;
+    margin-left: 220px;
+    margin-top: 250px;
+    border-style: solid;
+    border-color: #060606;
+}
+#lupin{
+    width: 240px;
+    height: 225px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#texto1{
+    width: 50%;
+    background: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    margin-top: -200px;
+    margin-left: 640px;
+}
+#cuatro{
+    background: #03C988;
+    width:70%;
+    height: 250px;
+    margin-left: 220px;
+    margin-top: 250px;
+    border-style: solid;
+    border-color: #080808;
+}
+#princesa{
+    width: 240px;
+    height: 225px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#texto1{
+    width: 50%;
+    background: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    margin-top: -200px;
+    margin-left: 640px;
+}
+
+
